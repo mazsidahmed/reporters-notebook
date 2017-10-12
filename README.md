@@ -20,7 +20,7 @@ npm
 
 If you see something like
 ```
--bash: bleagh: command not found
+-bash: npm: command not found
 ```
 
 follow [these instructions to install npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm)
