@@ -25,7 +25,7 @@ If you see something like
 
 follow [these instructions to install npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm)
 
-Once you have npm installed, open up your terminal and navigate to the directory that was created when you ran the steps in "Clone this project" earler.
+Once you have npm installed, in your terminal, navigate to the directory that was created when you ran the steps in "Clone this project" earler.
 
 In your terminal, type:
 ```
