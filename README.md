@@ -8,7 +8,7 @@ Clone this project
 
 In your terminal, type:
 ```
-git clone git@github.com:cojennin/reporters-notebook.git
+git clone https://github.com/cojennin/reporters-notebook.git
 ```
 
 Make sure you have npm installed
